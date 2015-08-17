@@ -1,2 +1,2 @@
-# and
-JavaScript UMD Module for spreadsheet compatible AND function 
+# switch
+NPM Package for spreadsheet compatible SWITCH function
