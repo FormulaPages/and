@@ -8,7 +8,7 @@
             exports: {}
         };
         factory(mod.exports, mod);
-        global.index = mod.exports;
+        global.AND = mod.exports;
     }
 })(this, function (exports, module) {
     "use strict";
