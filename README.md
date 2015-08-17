@@ -1,2 +1,2 @@
-# switch
-NPM Package for spreadsheet compatible SWITCH function
+# and
+NPM Package for spreadsheet compatible AND function
