@@ -22,5 +22,8 @@
   "homepage": "https://github.com/FormulaPages/and#readme",
   "dependencies": {
     "formula-flatten": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel": "^5.8.23"
   }
 }
